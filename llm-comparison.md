@@ -67,5 +67,4 @@
 | Fastest useful response            |        ChatGPT         |        Approx 6 sec                  |
 
 ## Key Observation
-> One thing I noticed about how different LLMs handle the same prompt:
 > One thing I noticed about how different LLMs handle the same prompt is that their response style and depth vary significantly. Even with the same descriptive prompt, Claude’s output was detailed and well-explained, though it took slightly longer compared to ChatGPT. ChatGPT responded faster while still maintaining a good balance between clarity and completeness. Gemini’s response was comparatively less descriptive and provided limited explanation, which made it less useful for deeper understanding.
